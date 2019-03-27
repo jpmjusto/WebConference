@@ -1,4 +1,7 @@
 # WebConference
-Aplicação web para gerir uma conferencia 
-primeira alteração! 
-segunda alteração
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <title>Página sobre a cidade do Porto </title>
+    </head>
